@@ -5,9 +5,9 @@ Worry not here i have made a soring visualizer which will help you understanding
 
 Hope you like it and understand the concept well:)
 
-#### https://labhmanmohan25.github.io/Sorting-Visualizer/
+#### 
 
-##### -Manmohan Labh-
+##### -Yash Bharti-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
