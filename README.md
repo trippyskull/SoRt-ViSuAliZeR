@@ -5,7 +5,7 @@ Worry not here i have made a soring visualizer which will help you understanding
 
 Hope you like it and understand the concept well:)
 
-#### 
+####https://github.com/trippyskull/ViSuAl-SoRtER#-yashbharti- 
 
 ##### -Yash Bharti-
 
